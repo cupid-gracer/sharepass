@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+}
+
+.container {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    background-color: black;
+    padding: 20px 100px;
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.alert-danger,
+.result-form {
+    display: none;
+}
+
+.btn-copy {
+    margin-top: 15px;
+}
+
+.expiry-time {
+    color: darkcyan;
+    font-weight: 700;
+}
